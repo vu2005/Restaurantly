@@ -1,0 +1,112 @@
+﻿<main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+        <img src="~/img/hero-bg.jpg" alt="" data-aos="fade-in">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 d-flex flex-column align-items-center align-items-lg-start">
+                    <h2 data-aos="fade-up" data-aos-delay="100">Welcome to <span>Restaurantly</span></h2>
+                    <p data-aos="fade-up" data-aos-delay="200">Delivering great food for more than 18 years!</p>
+                    <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
+                        <a href="#menu" class="cta-btn">Our Menu</a>
+                        <a href="#book-a-table" class="cta-btn">Book a Table</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 d-flex align-items-center justify-content-center mt-5 mt-lg-0">
+                    <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- Gọi file _BookTable.cshtml từ thư mục Shared -->
+    @await Html.PartialAsync("_About")
+    @await Html.PartialAsync("_WhyUs")
+    @await Html.PartialAsync("_SelectMenu")
+    @await Html.PartialAsync("_Specials")
+    @await Html.PartialAsync("_Event")
+    @await Html.PartialAsync("_BookTable")
+    @await Html.PartialAsync("_Carousel")
+    @await Html.PartialAsync("_Gallery")
+   <!-- gọi các file từ thư mục shared vào đây-->
+ 
+    <section id="chefs" class="chefs section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Team</h2>
+            <p>Necessitatibus eius consequatur</p>
+        </div><!-- End Section Title -->
+
+        <div class="container">
+
+            <div class="row gy-4">
+
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member">
+                        <img src="~/img/chefs/chefs-1.jpg" class="img-fluid" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Walter White</h4>
+                                <span>Master Chef</span>
+                            </div>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter-x"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="member">
+                        <img src="~/img/chefs/chefs-2.jpg" class="img-fluid" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Sarah Jhonson</h4>
+                                <span>Patissier</span>
+                            </div>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter-x"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="member">
+                        <img src="~/img/chefs/chefs-3.jpg" class="img-fluid" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>William Anderson</h4>
+                                <span>Cook</span>
+                            </div>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter-x"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+            </div>
+
+        </div>
+
+    </section><!-- /Chefs Section -->
+    <!-- Contact Section -->
+    @await Html.PartialAsync("_ContactUs")
+
+    
+
+</main>
