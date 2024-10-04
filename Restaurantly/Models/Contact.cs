@@ -1,8 +1,9 @@
 ﻿namespace Restaurantly.Models
 {
+    // Models/Contact.cs
     public class Contact
     {
-        public int ContactId { get; set; }
+        public int Id { get; set; }
         public string FullName { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }

@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.sql",
-      "PackagePath": "staticwebassets\\database\\data.sql"
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.txt",
+      "PackagePath": "staticwebassets\\database\\data.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\database.png",
+      "PackagePath": "staticwebassets\\database\\database.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\dbdiagram.txt",
+      "PackagePath": "staticwebassets\\database\\dbdiagram.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\insertdata.txt",
+      "PackagePath": "staticwebassets\\database\\insertdata.txt"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\favicon.ico",

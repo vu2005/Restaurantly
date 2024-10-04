@@ -1,8 +1,9 @@
 ﻿namespace Restaurantly.Models
 {
+    // Models/Order.cs
     public class Order
     {
-        public int OrderId { get; set; }
+        public int Id { get; set; }
         public int? CustomerId { get; set; }
         public int? ReservationId { get; set; }
         public decimal Total { get; set; }
@@ -13,7 +14,5 @@
 
         public Customer Customer { get; set; }
         public Reservation Reservation { get; set; }
-        public ICollection<OrderItem> OrderItems { get; set; }
     }
-
 }

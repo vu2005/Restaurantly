@@ -1,14 +1,16 @@
 ﻿namespace Restaurantly.Models
 {
+    // Models/User.cs
     public class User
     {
-        public int UserId { get; set; }
+        public int Id { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
         public string Email { get; set; }
-        public string Role { get; set; } // 'admin', 'customer'
+        public int? RoleId { get; set; }
         public bool Status { get; set; }
         public DateTime CreatedAt { get; set; }
-    }
 
+        public Role Role { get; set; }
+    }
 }

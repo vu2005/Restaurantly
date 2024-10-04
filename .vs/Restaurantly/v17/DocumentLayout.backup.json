@@ -3,76 +3,88 @@
   "WorkspaceRootPath": "C:\\laragon\\www\\SameC#\\Restaurantly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\migrations\\20241004100319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\migrations\\20241004100319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\migrations\\20241004100319_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\migrations\\20241004100319_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\restaurantlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\restaurantlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\categorymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\categorymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\bannerimagemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\bannerimagemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\categorypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\categorypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\wwwroot\\database\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\wwwroot\\database\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\bannerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\bannerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\settingmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\settingmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\contactmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\contactmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\productimagemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\productimagemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\orderitemmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\orderitemmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\productstocategorymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\productstocategorymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\categorypathmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\categorypathmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\ordermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\ordermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\reservationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\reservationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\customermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\customermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\productmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\wwwroot\\database\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\wwwroot\\database\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\wwwroot\\database\\dbdiagram.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\wwwroot\\database\\dbdiagram.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\wwwroot\\database\\database.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\wwwroot\\database\\database.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -81,6 +93,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\controllers\\favoritedishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\controllers\\favoritedishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\restaurantly.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\restaurantly.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -127,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -169,10 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\controllers\\favoritedishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\controllers\\favoritedishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -221,10 +245,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|c:\\laragon\\www\\samec#\\restaurantly\\restaurantly\\wwwroot\\database\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{4DAAE476-0F21-4AFB-90BC-63C7C00F68E6}|Restaurantly\\Restaurantly.csproj|solutionrelative:restaurantly\\wwwroot\\database\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -234,250 +254,276 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241004100319_InitialCreate.Designer.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Migrations\\20241004100319_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Migrations\\20241004100319_InitialCreate.Designer.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Migrations\\20241004100319_InitialCreate.Designer.cs",
-              "RelativeToolTip": "Restaurantly\\Migrations\\20241004100319_InitialCreate.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Review.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Review.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Review.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:41:25.219Z",
+              "WhenOpened": "2024-10-04T12:53:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryPath.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CategoryPath.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\CategoryPath.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CategoryPath.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\CategoryPath.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:52:48.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BannerImage.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\BannerImage.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\BannerImage.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\BannerImage.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\BannerImage.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:52:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Contact.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Contact.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Contact.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:52:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RestaurantlyDbContext.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\RestaurantlyDbContext.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Models\\RestaurantlyDbContext.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\RestaurantlyDbContext.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\RestaurantlyDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIA1wBYAAABlAAAAAAAAAA==",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\RestaurantlyDbContext.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\RestaurantlyDbContext.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T09:57:30.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CategoryModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\CategoryModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CategoryModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\CategoryModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:21:41.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Program.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Program.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Program.cs",
-              "RelativeToolTip": "Restaurantly\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:49:41.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241004100319_InitialCreate.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Migrations\\20241004100319_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Migrations\\20241004100319_InitialCreate.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Migrations\\20241004100319_InitialCreate.cs",
-              "RelativeToolTip": "Restaurantly\\Migrations\\20241004100319_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:03:19.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BannerImageModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\BannerImageModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\BannerImageModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\BannerImageModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\BannerImageModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Setting.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Setting.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Setting.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:26:15.179Z",
+              "WhenOpened": "2024-10-04T12:52:12.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "data.sql ",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.sql",
-              "RelativeDocumentMoniker": "Restaurantly\\wwwroot\\database\\data.sql",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.sql",
-              "RelativeToolTip": "Restaurantly\\wwwroot\\database\\data.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-04T09:29:38.969Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\User.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\User.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:52:00.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SettingModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\SettingModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\SettingModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\SettingModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\SettingModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductImage.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\ProductImage.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:26:00.483Z",
+              "WhenOpened": "2024-10-04T12:51:39.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UserModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\UserModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\UserModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\UserModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\UserModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\OrderItem.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\OrderItem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:25:43.535Z",
+              "WhenOpened": "2024-10-04T12:51:25.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ContactModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ContactModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\ContactModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ContactModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\ContactModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Order.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Order.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:25:29.471Z",
+              "WhenOpened": "2024-10-04T12:51:12.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ProductImageModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductImageModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\ProductImageModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductImageModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\ProductImageModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Product.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Product.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:25:01.606Z",
+              "WhenOpened": "2024-10-04T12:50:58.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "OrderItemModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\OrderItemModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\OrderItemModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\OrderItemModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\OrderItemModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Reservation.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Reservation.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Reservation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:24:46.361Z",
+              "WhenOpened": "2024-10-04T12:50:46.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ProductsToCategoryModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductsToCategoryModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\ProductsToCategoryModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductsToCategoryModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\ProductsToCategoryModels.cs",
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Table.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Table.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Table.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:24:29.051Z",
+              "WhenOpened": "2024-10-04T12:50:31.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CategoryPathModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CategoryPathModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\CategoryPathModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CategoryPathModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\CategoryPathModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "PasswordReset.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\PasswordReset.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\PasswordReset.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\PasswordReset.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\PasswordReset.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:24:12.889Z",
+              "WhenOpened": "2024-10-04T12:50:17.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "OrderModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\OrderModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\OrderModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\OrderModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\OrderModels.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Customer.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Customer.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Customer.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:23:37.113Z",
+              "WhenOpened": "2024-10-04T12:49:58.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ReservationModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ReservationModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\ReservationModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ReservationModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\ReservationModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Category.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Category.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:23:21.122Z",
+              "WhenOpened": "2024-10-04T12:49:32.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CustomerModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CustomerModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\CustomerModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\CustomerModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\CustomerModels.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Models\\Role.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\Role.cs*",
+              "RelativeToolTip": "Restaurantly\\Models\\Role.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:23:01.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductModels.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductModels.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Models\\ProductModels.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ProductModels.cs",
-              "RelativeToolTip": "Restaurantly\\Models\\ProductModels.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:22:35.33Z",
+              "WhenOpened": "2024-10-04T12:49:02.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "dbdiagram.txt",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\dbdiagram.txt",
+              "RelativeDocumentMoniker": "Restaurantly\\wwwroot\\database\\dbdiagram.txt",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\dbdiagram.txt",
+              "RelativeToolTip": "Restaurantly\\wwwroot\\database\\dbdiagram.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-04T12:48:20.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.txt",
+              "RelativeDocumentMoniker": "Restaurantly\\wwwroot\\database\\data.txt",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.txt",
+              "RelativeToolTip": "Restaurantly\\wwwroot\\database\\data.txt",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-04T12:44:23.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "database.png",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\database.png",
+              "RelativeDocumentMoniker": "Restaurantly\\wwwroot\\database\\database.png",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\database.png",
+              "RelativeToolTip": "Restaurantly\\wwwroot\\database\\database.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-04T12:44:17.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\appsettings.json",
               "RelativeDocumentMoniker": "Restaurantly\\appsettings.json",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\appsettings.json",
-              "RelativeToolTip": "Restaurantly\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\appsettings.json*",
+              "RelativeToolTip": "Restaurantly\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-04T09:35:53.734Z",
               "EditorCaption": ""
@@ -485,6 +531,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Program.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Program.cs",
+              "RelativeToolTip": "Restaurantly\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:49:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Models\\ErrorViewModel.cs",
@@ -492,11 +551,76 @@
               "RelativeToolTip": "Restaurantly\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:50:57.971Z"
+              "WhenOpened": "2024-10-04T09:50:57.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Restaurantly\\appsettings.Development.json",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\appsettings.Development.json",
+              "RelativeToolTip": "Restaurantly\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T11:41:57.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Restaurantly\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Restaurantly\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T11:21:58.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FavoriteDishController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\FavoriteDishController.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Controllers\\FavoriteDishController.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\FavoriteDishController.cs",
+              "RelativeToolTip": "Restaurantly\\Controllers\\FavoriteDishController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:13:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ForgotPasswordController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\ForgotPasswordController.cs",
+              "RelativeDocumentMoniker": "Restaurantly\\Controllers\\ForgotPasswordController.cs",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\ForgotPasswordController.cs",
+              "RelativeToolTip": "Restaurantly\\Controllers\\ForgotPasswordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:59:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Restaurantly",
+              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Restaurantly.csproj",
+              "RelativeDocumentMoniker": "Restaurantly\\Restaurantly.csproj",
+              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Restaurantly.csproj",
+              "RelativeToolTip": "Restaurantly\\Restaurantly.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T11:20:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\BookTable\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\BookTable\\Index.cshtml",
@@ -508,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "_BookTable.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_BookTable.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_BookTable.cshtml",
@@ -520,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "_SelectMenu.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_SelectMenu.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_SelectMenu.cshtml",
@@ -532,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\HomeController.cs",
@@ -544,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_Layout.cshtml",
@@ -556,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "main.css",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\css\\main.css",
               "RelativeDocumentMoniker": "Restaurantly\\wwwroot\\css\\main.css",
@@ -568,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Home\\Index.cshtml",
@@ -580,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\ForgotPassword\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\ForgotPassword\\Index.cshtml",
@@ -592,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "_ContactUs.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_ContactUs.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_ContactUs.cshtml",
@@ -604,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Register\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Register\\Index.cshtml",
@@ -616,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "_About.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_About.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_About.cshtml",
@@ -628,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Login\\Index.cshtml",
@@ -640,19 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ForgotPasswordController.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\ForgotPasswordController.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Controllers\\ForgotPasswordController.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\ForgotPasswordController.cs",
-              "RelativeToolTip": "Restaurantly\\Controllers\\ForgotPasswordController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:59:06.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "BookTableController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\BookTableController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\BookTableController.cs",
@@ -664,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\DashboardController.cs",
@@ -676,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "_Carousel.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_Carousel.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_Carousel.cshtml",
@@ -688,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\FavoriteDish\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\FavoriteDish\\Index.cshtml",
@@ -700,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\RegisterController.cs",
@@ -712,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "OrderNowController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\OrderNowController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\OrderNowController.cs",
@@ -724,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "MyProfileController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\MyProfileController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\MyProfileController.cs",
@@ -736,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "MyOrdersController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\MyOrdersController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\MyOrdersController.cs",
@@ -748,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Restaurantly\\Controllers\\LoginController.cs",
@@ -760,19 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "FavoriteDishController.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\FavoriteDishController.cs",
-              "RelativeDocumentMoniker": "Restaurantly\\Controllers\\FavoriteDishController.cs",
-              "ToolTip": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Controllers\\FavoriteDishController.cs",
-              "RelativeToolTip": "Restaurantly\\Controllers\\FavoriteDishController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:13:17.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Dashboard\\Index.cshtml",
@@ -784,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\OrderNow\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\OrderNow\\Index.cshtml",
@@ -796,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\MyProfile\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\MyProfile\\Index.cshtml",
@@ -808,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\MyOrders\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\MyOrders\\Index.cshtml",
@@ -820,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "_Gallery.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_Gallery.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_Gallery.cshtml",
@@ -832,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "_Specials.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_Specials.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_Specials.cshtml",
@@ -844,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -856,7 +956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Home\\Privacy.cshtml",
@@ -868,7 +968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "_Event.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_Event.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_Event.cshtml",
@@ -880,7 +980,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "_WhyUs.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\_WhyUs.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\_WhyUs.cshtml",
@@ -892,7 +992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\Shared\\Error.cshtml",
@@ -904,7 +1004,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Restaurantly\\Views\\_ViewImports.cshtml",
