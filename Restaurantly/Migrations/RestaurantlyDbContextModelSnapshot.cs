@@ -17,7 +17,7 @@ namespace Restaurantly.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
@@ -104,7 +104,7 @@ namespace Restaurantly.Migrations
                     b.Property<DateTime>("DateAdded")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<DateTime>("DateModified")
+                    b.Property<DateTime?>("DateModified")
                         .HasColumnType("datetime(6)");
 
                     b.Property<string>("Email")
@@ -163,7 +163,6 @@ namespace Restaurantly.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("ResetToken")
-                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<DateTime?>("ResetTokenExpiry")
@@ -242,30 +241,6 @@ namespace Restaurantly.Migrations
                     b.HasIndex("ProductId");
 
                     b.ToTable("OrderItems");
-                });
-
-            modelBuilder.Entity("Restaurantly.Models.PasswordReset", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Token")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("PasswordResets");
                 });
 
             modelBuilder.Entity("Restaurantly.Models.Product", b =>

@@ -10,7 +10,7 @@
         public string Subject { get; set; }
         public string Message { get; set; }
         public DateTime DateAdded { get; set; }
-        public DateTime DateModified { get; set; }
+        public DateTime? DateModified { get; set; }
         public bool Status { get; set; }
     }
 

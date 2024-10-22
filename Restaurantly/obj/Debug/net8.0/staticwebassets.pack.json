@@ -9,16 +9,16 @@
       "PackagePath": "staticwebassets\\database\\data.txt"
     },
     {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\database.png",
-      "PackagePath": "staticwebassets\\database\\database.png"
-    },
-    {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\dbdiagram.txt",
       "PackagePath": "staticwebassets\\database\\dbdiagram.txt"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\insertdata.txt",
       "PackagePath": "staticwebassets\\database\\insertdata.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\restaurantly.png",
+      "PackagePath": "staticwebassets\\database\\restaurantly.png"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\favicon.ico",

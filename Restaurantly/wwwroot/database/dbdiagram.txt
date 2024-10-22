@@ -21,13 +21,6 @@ Table customers {
   date_added DATETIME
 }
 
-Table password_resets {
-  id INT [pk, increment]
-  email VARCHAR(255)
-  token VARCHAR(255)
-  created_at DATETIME
-}
-
 Table tables {
   id INT [pk, increment]
   table_number INT

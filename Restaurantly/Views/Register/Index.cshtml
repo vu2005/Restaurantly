@@ -18,61 +18,92 @@
                     <style>
                         /* CSS cho input */
                         .transparent-input {
-                            border-radius: 20px; /* Bo tròn góc */
-                            background-color: transparent; /* Nền trong suốt */
-                            color: #fff; /* Màu chữ trắng */
-                            padding: 12px; /* Khoảng cách bên trong */
-                            width: 100%; /* Chiều rộng 100% */
-                            border: 2px solid transparent; /* Đường viền trong suốt */
-                            outline: none; /* Xóa viền mặc định */
+                            border-radius: 20px;
+                            /* Bo tròn góc */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            padding: 12px;
+                            /* Khoảng cách bên trong */
+                            width: 100%;
+                            /* Chiều rộng 100% */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            outline: none;
+                            /* Xóa viền mặc định */
                             border: 2px solid #ffcc80;
                         }
 
                         .cta-btn {
-                            border-radius: 20px; /* Bo tròn góc cho nút */
-                            background-color: transparent; /* Nền trong suốt */
-                            color: #fff; /* Màu chữ trắng */
-                            border: 2px solid transparent; /* Đường viền trong suốt */
-                            cursor: pointer; /* Con trỏ chuột là hình tay */
-                            padding: 10px 20px; /* Khoảng cách bên trong */
+                            border-radius: 20px;
+                            /* Bo tròn góc cho nút */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            cursor: pointer;
+                            /* Con trỏ chuột là hình tay */
+                            padding: 10px 20px;
+                            /* Khoảng cách bên trong */
                         }
 
-                        
 
-                            .cta-btn:hover {
-                                border: 2px solid #ffcc80; /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
-                            }
+
+                        .cta-btn:hover {
+                            border: 2px solid #ffcc80;
+                            /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
+                        }
                     </style>
 
                     <div class="container mt-5">
-                        <form action="~/forms/register.php" method="post" class="php-email-form">
-    <div class="loading">Loading</div>
-    <div class="error-message"></div>
-    <div class="sent-message">Registration request has been sent. Thank you!</div>
+                        @model Restaurantly.ViewModels.RegisterViewModel
 
-    <div class="form-group">
-        <label for="username" class="text-white">Username</label>
-        <input type="text" class="transparent-input" placeholder="Username" id="username" name="username" required>
-    </div>
+                        <h2>Register an account</h2>
 
-    <div class="form-group" style="margin: 10px 0">
-        <label for="email" class="text-white">Email</label>
-        <input type="email" class="transparent-input" placeholder="Email" id="email" name="email" required>
-    </div>
+                        <form asp-action="Index" method="post">
+                            <div class="form-group">
+                                <label asp-for="FullName" class="text-white"></label>
+                                <input asp-for="FullName" placeholder="Your FullName" class="transparent-input" />
+                                <span asp-validation-for="FullName" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email" class="text-white"></label>
+                                <input asp-for="Email" placeholder="Your Email" class="transparent-input" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Phone" class="text-white"></label>
+                                <input asp-for="Phone" placeholder="Your Phone" class="transparent-input" />
+                                <span asp-validation-for="Phone" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Password" class="text-white"></label>
+                                <input asp-for="Password" placeholder="Your Password" type="password"
+                                    class="transparent-input" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ConfirmPassword" class="text-white"></label>
+                                <input asp-for="ConfirmPassword" placeholder="Your Confirm Password" type="password"
+                                    class="transparent-input" />
+                                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            </div>
+                            <button type="submit" class="cta-btn center"
+                                style="margin:10px 40px 0px 0px">Register</button>
+                        </form>
 
-    <div class="form-group" style="margin: 10px 0">
-        <label for="password" class="text-white">Password</label>
-        <input type="password" class="transparent-input" placeholder="Password" id="password" name="password" required>
-    </div>
 
-    <button type="submit" class="cta-btn center" style="margin:10px 40px 0px 0px">Register</button>
-
-    
-</form>
+                        @section Scripts {
+                            @{
+                                await Html.RenderPartialAsync("_ValidationScriptsPartial");
+                            }
+                        }
 
 
 
-                        
                     </div>
                 </div>
                 <!-- End Form Register -->
@@ -80,14 +111,3 @@
         </div>
     </div>
 </section>
-
-<script>
-    const togglePassword = document.querySelector('#togglePassword');
-    const password = document.querySelector('#password');
-
-    togglePassword.addEventListener('click', function (e) {
-        const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
-        password.setAttribute('type', type);
-        this.classList.toggle('fa-eye-slash');
-    });
-</script>

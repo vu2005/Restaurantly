@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Yg9ZeeQQ/q4luVaz406q4J+c7VPs7E2P5U96UIVabKU=",
+  "Hash": "TShz2exOtrUGVdjVDc3GomvNtBQ0HAUFJcICAmliK90=",
   "Source": "Restaurantly",
   "BasePath": "_content/Restaurantly",
   "Mode": "Default",
@@ -55,25 +55,6 @@
       "OriginalItemSpec": "wwwroot\\database\\data.txt"
     },
     {
-      "Identity": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\database.png",
-      "SourceId": "Restaurantly",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\",
-      "BasePath": "_content/Restaurantly",
-      "RelativePath": "database/database.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\database\\database.png"
-    },
-    {
       "Identity": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\dbdiagram.txt",
       "SourceId": "Restaurantly",
       "SourceType": "Discovered",
@@ -110,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\database\\insertdata.txt"
+    },
+    {
+      "Identity": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\restaurantly.png",
+      "SourceId": "Restaurantly",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\",
+      "BasePath": "_content/Restaurantly",
+      "RelativePath": "database/restaurantly.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\database\\restaurantly.png"
     },
     {
       "Identity": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\favicon.ico",

@@ -15,71 +15,92 @@
             <div class="col-lg-4 d-flex align-items-center justify-content-center mt-5 mt-lg-0">
                 <div>
                     <!-- Form Login -->
-                    <h3 class="text-center mb-3">Login</h3>
-                        <style>
-                            /* CSS cho input */
-                            .transparent-input {
-                                border-radius: 20px; /* Bo tròn góc */
-                                background-color: transparent; /* Nền trong suốt */
-                                color: #fff; /* Màu chữ trắng */
-                                padding: 12px; /* Khoảng cách bên trong */
-                                width: 100%; /* Chiều rộng 100% */
-                            border: 2px solid #ffcc80; /* Đường viền màu cam nhạt khi input được chọn */
-                            outline: none; /* Xóa viền mặc định */
-                            }
-
-                               
-
-                            .cta-btn {
-                                border-radius: 20px; /* Bo tròn góc cho nút */
-                                background-color: transparent; /* Nền trong suốt */
-                                color: #fff; /* Màu chữ trắng */
-                                border: 2px solid transparent; /* Đường viền trong suốt */
-                                cursor: pointer; /* Con trỏ chuột là hình tay */
-                                padding: 10px 20px; /* Khoảng cách bên trong */
-                            }
-
-                        .social-links img {
-                            width: 30px !important; /* Đặt chiều rộng */
-                            height: 30px !important; /* Đặt chiều cao */
-                            position: relative !important; /* Đặt vị trí tương đối để ghi đè */
-                            inset: none !important; /* Ghi đè inset nếu cần */
+                    <style>
+                        /* CSS cho input */
+                        .transparent-input {
+                            border-radius: 20px;
+                            /* Bo tròn góc */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            padding: 12px;
+                            /* Khoảng cách bên trong */
+                            width: 100%;
+                            /* Chiều rộng 100% */
+                            border: 2px solid #ffcc80;
+                            /* Đường viền màu cam nhạt khi input được chọn */
+                            outline: none;
+                            /* Xóa viền mặc định */
                         }
 
-                                .cta-btn:hover {
-                                    border: 2px solid #ffcc80; /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
-                                }
-                        </style>
-                    
 
-                        <div class="container mt-5">
-                            <form action="~/forms/login.php" method="post" class="php-email-form">
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Login request has been sent. Thank you!</div>
 
-                                <div class="form-group">
-                                    <label for="username" class="text-white">Username</label>
-                                    <input type="text" class="transparent-input" placeholder="Username" id="username" name="username" required>
-                                </div>
+                        .cta-btn {
+                            border-radius: 20px;
+                            /* Bo tròn góc cho nút */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            cursor: pointer;
+                            /* Con trỏ chuột là hình tay */
+                            padding: 10px 20px;
+                            /* Khoảng cách bên trong */
+                        }
 
-                                <div class="form-group" style="margin: 10px 0">
-                                    <label for="password" class="text-white">Password</label>
-                                <input type="password" class="transparent-input" placeholder="Password" id="password" name="password" required>
-                                </div>
+                        .social-links img {
+                            width: 30px !important;
+                            /* Đặt chiều rộng */
+                            height: 30px !important;
+                            /* Đặt chiều cao */
+                            position: relative !important;
+                            /* Đặt vị trí tương đối để ghi đè */
+                            inset: none !important;
+                            /* Ghi đè inset nếu cần */
+                        }
 
-                            <button type="submit" class="cta-btn center" style="margin:10px 40px 0px 0px">Login</button>
-                            <a class="cta-btn center" asp-controller="forgot-password">Forgot Password</a>
-                            <div class="social-links d-flex justify-content-left mt-3">
-                                <a href="" class="mx-2">
-                                    <img class="img-fluid" src="~/img/facebook.png" alt="facebook" />
-                                </a>
-                                <a href="" class="mx-2">
-                                    <img class="img-fluid" src="~/img/google.png" alt="google" />
-                                </a>
+                        .cta-btn:hover {
+                            border: 2px solid #ffcc80;
+                            /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
+                        }
+                    </style>
+
+
+                    <div class="container mt-5">
+                        @model Restaurantly.ViewModels.LoginViewModel
+
+                        <h2>Login</h2>
+
+                        <form asp-action="Index" method="post">
+                            <div class="form-group">
+                                <label asp-for="Email" class="text-white"></label>
+                                <input asp-for="Email" placeholder="Your email" class="transparent-input" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
                             </div>
+                            <div class="form-group">
+                                <label asp-for="Password" class="text-white"></label>
+                                <input asp-for="Password" type="password" placeholder="Your password"
+                                    class="transparent-input" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                            <button type="submit" class="cta-btn center" style="margin:10px 40px 0px 0px">
+                                Login
+                            </button>
+                            <a class="cta-btn center" asp-controller="ForgotPassword">Forgot Password</a>
                         </form>
-                        </div>
+
+
+                        @section Scripts {
+                            @{
+                                await Html.RenderPartialAsync("_ValidationScriptsPartial");
+                            }
+                        }
+
+
+                    </div>
 
                 </div>
                 <!-- End Form Login -->
@@ -88,14 +109,3 @@
     </div>
 
 </section>
-
-<script>
-    const togglePassword = document.querySelector('#togglePassword');
-    const password = document.querySelector('#password');
-
-    togglePassword.addEventListener('click', function (e) {
-        const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
-        password.setAttribute('type', type);
-        this.classList.toggle('fa-eye-slash');
-    });
-</script>

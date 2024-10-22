@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Restaurantly
+build_property.RootNamespace = Restaurantly
+build_property.ProjectDir = C:\laragon\www\SameC#\Restaurantly\Restaurantly\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\laragon\www\SameC#\Restaurantly\Restaurantly
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/BookTable/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1RhYmxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/FavoriteDish/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVEaXNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/ForgotPassword/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ290UGFzc3dvcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/MyOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlPcmRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/MyProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlQcm9maWxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/OrderNow/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJOb3dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_BookTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb29rVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Event.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9HYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_SelectMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWxlY3RNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Specials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TcGVjaWFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_WhyUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9XaHlVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

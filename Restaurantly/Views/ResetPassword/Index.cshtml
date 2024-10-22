@@ -1,0 +1,109 @@
+@model Restaurantly.ViewModels.ResetPasswordViewModel
+
+<section id="hero" class="hero section dark-background">
+    <img src="~/img/res.jpeg" alt="" data-aos="fade-in">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 d-flex flex-column align-items-center align-items-lg-start">
+                <h2 data-aos="fade-up" data-aos-delay="100">Welcome to <span>Restaurantly</span></h2>
+                <p data-aos="fade-up" data-aos-delay="200">Please enter your new password to reset your account.</p>
+            </div>
+
+            <div class="col-lg-4 d-flex align-items-center justify-content-center mt-5 mt-lg-0">
+                <div>
+                    <h3 class="text-center mb-3">Reset Password</h3>
+
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-success text-center">@ViewBag.Message</div>
+                    }
+
+                    @if (!ViewData.ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger">
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <div>@error.ErrorMessage</div>
+                            }
+                        </div>
+                    }
+
+                    <style>
+                        /* CSS for input */
+                        .transparent-input {
+                            border-radius: 20px;
+                            /* Bo tròn góc */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            padding: 12px;
+                            /* Khoảng cách bên trong */
+                            width: 100%;
+                            /* Chiều rộng 100% */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            outline: none;
+                            /* Xóa viền mặc định */
+                            border: 2px solid #ffcc80;
+                        }
+
+                        .cta-btn {
+                            border-radius: 20px;
+                            /* Bo tròn góc cho nút */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            cursor: pointer;
+                            /* Con trỏ chuột là hình tay */
+                            padding: 10px 20px;
+                            /* Khoảng cách bên trong */
+                        }
+
+
+
+                        .cta-btn:hover {
+                            border: 2px solid #ffcc80;
+                            /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
+                        }
+                    </style>
+
+                    <div class="container mt-5">
+                        <form asp-action="Index" method="post">
+                            <input type="hidden" asp-for="Email" />
+                            <div class="form-group">
+                                <label asp-for="Token" class="text-white"></label>
+                                <input asp-for="Token" type="text" class="transparent-input"
+                                    placeholder="Nhập mã token của bạn" value="@Model.Token" required />
+                                <span asp-validation-for="Token" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="NewPassword" class="text-white"></label>
+                                <input asp-for="NewPassword" type="password" class="transparent-input"
+                                    placeholder="Nhập mật khẩu mới" required />
+                                <span asp-validation-for="NewPassword" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="ConfirmPassword" class="text-white"></label>
+                                <input asp-for="ConfirmPassword" type="password" class="transparent-input"
+                                    placeholder="Xác nhận mật khẩu" required />
+                                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            </div>
+
+                            <div class="text-center mt-4">
+                                <button type="submit" class="cta-btn center">Đặt Lại Mật Khẩu</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- End Reset Password Form -->
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\MyProfile",
+    "\\Views\\OrderNow",
+    "\\Views\\Shared",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\Controllers\\MyProfileController.cs",
+  "PreviewInSolutionExplorer": false
+}

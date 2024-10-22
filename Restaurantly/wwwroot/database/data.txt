@@ -30,14 +30,6 @@ CREATE TABLE customers (
     date_added DATETIME NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
--- Tạo bảng password_resets
-CREATE TABLE password_resets (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    email VARCHAR(255) NOT NULL,
-    token VARCHAR(255) NOT NULL,
-    created_at DATETIME NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
 -- Tạo bảng tables
 CREATE TABLE tables (
     id INT PRIMARY KEY AUTO_INCREMENT,

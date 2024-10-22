@@ -18,45 +18,65 @@
                     <style>
                         /* CSS cho input */
                         .transparent-input {
-                            border-radius: 20px; /* Bo tròn góc */
-                            background-color: transparent; /* Nền trong suốt */
-                            color: #fff; /* Màu chữ trắng */
-                            padding: 12px; /* Khoảng cách bên trong */
-                            width: 100%; /* Chiều rộng 100% */
-                            border: 2px solid transparent; /* Đường viền trong suốt */
-                            outline: none; /* Xóa viền mặc định */
+                            border-radius: 20px;
+                            /* Bo tròn góc */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            padding: 12px;
+                            /* Khoảng cách bên trong */
+                            width: 100%;
+                            /* Chiều rộng 100% */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            outline: none;
+                            /* Xóa viền mặc định */
                             border: 2px solid #ffcc80;
                         }
 
                         .cta-btn {
-                            border-radius: 20px; /* Bo tròn góc cho nút */
-                            background-color: transparent; /* Nền trong suốt */
-                            color: #fff; /* Màu chữ trắng */
-                            border: 2px solid transparent; /* Đường viền trong suốt */
-                            cursor: pointer; /* Con trỏ chuột là hình tay */
-                            padding: 10px 20px; /* Khoảng cách bên trong */
+                            border-radius: 20px;
+                            /* Bo tròn góc cho nút */
+                            background-color: transparent;
+                            /* Nền trong suốt */
+                            color: #fff;
+                            /* Màu chữ trắng */
+                            border: 2px solid transparent;
+                            /* Đường viền trong suốt */
+                            cursor: pointer;
+                            /* Con trỏ chuột là hình tay */
+                            padding: 10px 20px;
+                            /* Khoảng cách bên trong */
                         }
 
-                            .cta-btn:hover {
-                                border: 2px solid #ffcc80; /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
-                            }
+                        .cta-btn:hover {
+                            border: 2px solid #ffcc80;
+                            /* Đổi đường viền thành màu cam nhạt khi di chuột vào */
+                        }
                     </style>
 
                     <div class="container mt-5">
-                        <form action="~/forms/reset_password.php" method="post" class="php-email-form">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">A password reset link has been sent to your email. Thank you!</div>
+                        @model Restaurantly.ViewModels.ForgotPasswordViewModel
 
+                        <h2>Forgot Password</h2>
+
+                        <form asp-action="Index" asp-controller="ForgotPassword" method="post">
                             <div class="form-group">
-                                <label for="email" class="text-white">Email</label>
-                                <input type="email" class="transparent-input" placeholder="Email" id="email" name="email" required>
+                                <label asp-for="Email" class="text-white"></label>
+                                <input asp-for="Email" placeholder="Your email" class="transparent-input" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
                             </div>
-
                             <button type="submit" class="cta-btn center" style="margin:10px 40px 0px 0px">
-                                Send Reset Link <i class="fas fa-arrow-right" style="margin-left: 20px"></i>
+                                Reset Password<i class="fas fa-arrow-right" style="margin-left: 20px"></i>
                             </button>
                         </form>
+
+                        @section Scripts {
+                            @{
+                                await Html.RenderPartialAsync("_ValidationScriptsPartial");
+                            }
+                        }
                     </div>
                 </div>
                 <!-- End Form Quên Mật Khẩu -->
