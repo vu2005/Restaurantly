@@ -1,6 +1,5 @@
 ﻿namespace Restaurantly.Models
 {
-    // Models/OrderItem.cs
     public class OrderItem
     {
         public int Id { get; set; }
@@ -11,6 +10,9 @@
 
         public Order Order { get; set; }
         public Product Product { get; set; }
+
+        public int CustomerId { get; set; }
+        public int? ReservationId { get; set; } // Make this nullable
     }
 
 }

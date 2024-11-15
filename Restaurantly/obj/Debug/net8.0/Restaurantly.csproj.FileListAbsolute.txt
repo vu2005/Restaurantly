@@ -219,3 +219,6 @@ C:\laragon\www\SameC#\Restaurantly\Restaurantly\bin\Debug\net8.0\Microsoft.Exten
 C:\laragon\www\SameC#\Restaurantly\Restaurantly\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\laragon\www\SameC#\Restaurantly\Restaurantly\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\laragon\www\SameC#\Restaurantly\Restaurantly\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\laragon\www\SameC#\Restaurantly\Restaurantly\bin\Debug\net8.0\Restaurantly.staticwebassets.endpoints.json
+C:\laragon\www\SameC#\Restaurantly\Restaurantly\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\laragon\www\SameC#\Restaurantly\Restaurantly\obj\Debug\net8.0\staticwebassets\msbuild.Restaurantly.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

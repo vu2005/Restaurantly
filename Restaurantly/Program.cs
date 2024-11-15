@@ -1,10 +1,7 @@
-using Microsoft.AspNetCore.Authentication.Cookies; // Thêm không gian tên cho xác thực
+using Microsoft.AspNetCore.Authentication.Cookies; // Namespace for authentication
 using Microsoft.EntityFrameworkCore;
 using Restaurantly.Models;
 using System;
-using MimeKit;
-using MailKit.Net.Smtp;
-using MailKit.Security;
 
 public class Program
 {
@@ -12,54 +9,49 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        // Cấu hình chuỗi kết nối với MySQL
+        // Configure the connection string for MySQL
         builder.Services.AddDbContext<RestaurantlyDbContext>(options =>
             options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-                new MySqlServerVersion(new Version(8, 0, 26)))); // Điều chỉnh phiên bản nếu cần
+                new MySqlServerVersion(new Version(8, 0, 26)))); // Adjust version if needed
 
-        // Cấu hình dịch vụ xác thực
+        // Configure authentication services
         builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
             .AddCookie(options =>
             {
-                options.LoginPath = "/login"; // Đường dẫn đến trang đăng nhập
-                options.LogoutPath = "/sign-out"; // Đường dẫn đến trang đăng xuất
-                options.AccessDeniedPath = "/access-denied"; // Đường dẫn cho trang từ chối truy cập
+                options.LoginPath = "/login"; // Path to the login page
+                options.LogoutPath = "/sign-out"; // Path to the logout page
+                options.AccessDeniedPath = "/access-denied"; // Path for access denied
             });
 
-        // Đăng ký dịch vụ Identity
-        // builder.Services.AddIdentity<Customer, IdentityRole>() // Đảm bảo Customer là lớp người dùng của bạn
-        //     .AddEntityFrameworkStores<RestaurantlyDbContext>()
-        //     .AddDefaultTokenProviders();
-
-        // Đăng ký dịch vụ cho MVC
+        // Register services for MVC
         builder.Services.AddControllersWithViews();
 
         var app = builder.Build();
 
-        // Cấu hình pipeline xử lý yêu cầu HTTP
+        // Configure the HTTP request pipeline
         if (app.Environment.IsDevelopment())
         {
-            app.UseDeveloperExceptionPage(); // Hiển thị lỗi trong môi trường phát triển
+            app.UseDeveloperExceptionPage(); // Show errors in development mode
         }
         else
         {
-            app.UseExceptionHandler("/Home/Error"); // Chuyển hướng đến trang lỗi nếu có lỗi
-            app.UseHsts(); // Sử dụng HSTS
+            app.UseExceptionHandler("/Home/Error"); // Redirect to error page if an error occurs
+            app.UseHsts(); // Use HSTS
         }
 
-        app.UseHttpsRedirection(); // Chuyển hướng HTTP thành HTTPS
-        app.UseStaticFiles(); // Cho phép sử dụng các file tĩnh như CSS, JavaScript, hình ảnh
-        app.UseRouting(); // Cho phép định tuyến
+        app.UseHttpsRedirection(); // Redirect HTTP to HTTPS
+        app.UseStaticFiles(); // Enable serving static files like CSS, JavaScript, images
+        app.UseRouting(); // Enable routing
 
-        // Sử dụng xác thực và ủy quyền
+        // Use authentication and authorization
         app.UseAuthentication();
         app.UseAuthorization();
 
-        // Định nghĩa đường dẫn mặc định cho các controller
+        // Define default route for controllers
         app.MapControllerRoute(
             name: "default",
             pattern: "{controller=Home}/{action=Index}/{id?}");
 
-        app.Run(); // Chạy ứng dụng
+        app.Run(); // Run the application
     }
 }

@@ -9,6 +9,7 @@ namespace Restaurantly.Controllers
     {
         private readonly RestaurantlyDbContext _context;
 
+
         public ContactController(RestaurantlyDbContext context)
         {
             _context = context;
@@ -42,3 +43,4 @@ namespace Restaurantly.Controllers
         }
     }
 }
+

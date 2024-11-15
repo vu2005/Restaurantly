@@ -1,0 +1,125 @@
+﻿@model Restaurantly.ViewModels.BookTableViewModel
+<section id="hero" class="hero section dark-background">
+    <img src="~/img/tableb.jpg" alt="" data-aos="fade-in">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 d-flex flex-column align-items-center align-items-lg-start">
+                <h2 data-aos="fade-up" data-aos-delay="100">Welcome to <span>Restaurantly</span></h2>
+                <p data-aos="fade-up" data-aos-delay="200">Instructions for booking a table and choosing dishes</p>
+                <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <a href="/" class="cta-btn">Instructions <i class="fas fa-arrow-right"
+                            style="margin-left: 20px; cursor:pointer"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Alert Messages -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["ErrorMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<link rel="stylesheet" href="~/css/custom.css" />
+
+<!-- Reservation Form -->
+<section id="book-a-table" class="book-a-table section">
+    <div class="container section-title" data-aos="fade-up">
+        <h2>ĐẶT BÀN</h2>
+        <p id="status-message">Please select a table</p>
+    </div>
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <form asp-action="Index" asp-controller="BookTableAndOrder" method="post" role="form" class="php-email-form">
+            <!-- Step 1: Select Table -->
+            <div id="step-1" class="table-map mb-4">
+                <div class="row">
+                    <div class="col">
+                        <button type="button" class="btn btn-outline-secondary available" data-table="1">A1</button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-outline-secondary available" data-table="2">A2</button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-outline-secondary available" data-table="3">A3</button>
+                    </div>
+                </div>
+                <input type="hidden" asp-for="TableId" name="TableId" id="final-table">
+                <button type="button" id="continue-to-menu" class="btn btn-primary mt-3">Tiếp tục</button>
+            </div>
+
+            <!-- Step 2: Menu Selection -->
+            <div id="step-2" class="form-group mb-4" style="display: none;">
+                <label for="menu-selection">Thực Đơn:</label>
+                <div class="custom-dropdown">
+                    <div class="dropdown-trigger" id="menu-dropdown">
+                        <span style="color: #000;">Select a Menu</span>
+                    </div>
+                    <div class="dropdown-options" id="dropdown-options">
+                        <div class="dropdown-option" data-value="1" data-src="img/menu/bread-barrel.jpg">
+                            <img src="~/img/menu/bread-barrel.jpg" alt="Menu 1" class="menu-image"> bread-barrel - $20
+                        </div>
+                        <div class="dropdown-option" data-value="2" data-src="img/menu/cake.jpg">
+                            <img src="~/img/menu/cake.jpg" alt="Menu 2" class="menu-image"> cake - $25
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" asp-for="ProductId" name="ProductId" id="selected-menu">
+                <img id="selected-menu-image" src="~/" alt="Selected Menu Image"
+                    style="display: none; margin-top: 10px; width: 100px; height: auto;">
+                <button type="button" id="continue-to-details" class="btn btn-primary mt-3">Tiếp tục</button>
+            </div>
+
+            <!-- Step 3: Customer Information -->
+            <div id="step-3" class="row gy-4" style="display: none;">
+                <div class="row gy-4">
+                    <div class="col-lg-4 col-md-6">
+                        <input type="text" asp-for="FullName" class="form-control" placeholder="Your Name" required />
+                        <span asp-validation-for="FullName" class="text-danger"></span>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <input type="email" asp-for="Email" class="form-control" placeholder="Your Email" required />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <input type="text" asp-for="Phone" class="form-control" placeholder="Your Phone" required />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <input type="date" asp-for="ReservationDate" class="form-control" required />
+                        <span asp-validation-for="ReservationDate" class="text-danger"></span>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <input type="time" asp-for="ReservationTime" class="form-control" required />
+                        <span asp-validation-for="ReservationTime" class="text-danger"></span>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <input type="number" asp-for="NumberOfGuests" class="form-control" placeholder="# of people"
+                            required />
+                        <span asp-validation-for="NumberOfGuests" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group mt-3">
+                    <textarea asp-for="Message" class="form-control" rows="5" placeholder="Message"></textarea>
+                    <span asp-validation-for="Message" class="text-danger"></span>
+                </div>
+                <div class="text-center mt-3">
+                    <button type="submit">Xác Nhận & Đặt Bàn</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+<script src="~/js/custom.js"></script>

@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\forms\\book-a-table.php",
+      "PackagePath": "staticwebassets\\forms\\book-a-table.php"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\forms\\newsletter.php",
+      "PackagePath": "staticwebassets\\forms\\newsletter.php"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\aspecials-10.png.jpg",
+      "PackagePath": "staticwebassets\\img\\aspecials-10.png.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\events-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\events-bg.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\events-slider\\events-slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\events-slider\\events-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\events-slider\\events-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\events-slider\\events-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\events-slider\\events-slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\events-slider\\events-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\google.png",
+      "PackagePath": "staticwebassets\\img\\google.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\img_login.jpg",
+      "PackagePath": "staticwebassets\\img\\img_login.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\bread-barrel.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\bread-barrel.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\caesar-salad-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\caesar-salad-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\caesar-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\caesar-salad.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\cake.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\cake.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\greek-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\greek-salad.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\grilled-chicken-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\grilled-chicken-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\grilled-chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\grilled-chicken.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\lobster-bisque.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\lobster-bisque.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\lobster-roll.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\lobster-roll.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\mozzarella.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\mozzarella.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-dana-tentis-118658-262959.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-dana-tentis-118658-262959.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-deeanacreates-2894651.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-deeanacreates-2894651.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-julieaagaard-2097090 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-julieaagaard-2097090 (1).jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-julieaagaard-2097090.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-julieaagaard-2097090.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-matreding-28271480.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-matreding-28271480.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-ngan-d-ng-706246094-18498609.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-ngan-d-ng-706246094-18498609.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-ngan-d-ng-706246094-18509304.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-ngan-d-ng-706246094-18509304.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-snappr-29042349.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-snappr-29042349.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-sydney-troxell-223521-708488.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-sydney-troxell-223521-708488.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-valeriya-842571.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-valeriya-842571.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-xmtnguyen-699953.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-xmtnguyen-699953.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\spinach-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\spinach-salad.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\page-title-bg.webp",
+      "PackagePath": "staticwebassets\\img\\page-title-bg.webp"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\res.jpeg",
+      "PackagePath": "staticwebassets\\img\\res.jpeg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-1.png",
+      "PackagePath": "staticwebassets\\img\\specials-1.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-11.png",
+      "PackagePath": "staticwebassets\\img\\specials-11.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-12.png",
+      "PackagePath": "staticwebassets\\img\\specials-12.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-13.png",
+      "PackagePath": "staticwebassets\\img\\specials-13.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-14.png",
+      "PackagePath": "staticwebassets\\img\\specials-14.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-15.png",
+      "PackagePath": "staticwebassets\\img\\specials-15.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-16.png",
+      "PackagePath": "staticwebassets\\img\\specials-16.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-17.png",
+      "PackagePath": "staticwebassets\\img\\specials-17.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-2.png",
+      "PackagePath": "staticwebassets\\img\\specials-2.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-3.png",
+      "PackagePath": "staticwebassets\\img\\specials-3.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-4.png",
+      "PackagePath": "staticwebassets\\img\\specials-4.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-5.png",
+      "PackagePath": "staticwebassets\\img\\specials-5.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-6.png",
+      "PackagePath": "staticwebassets\\img\\specials-6.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-7.png",
+      "PackagePath": "staticwebassets\\img\\specials-7.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-8.png",
+      "PackagePath": "staticwebassets\\img\\specials-8.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\specials-9.png",
+      "PackagePath": "staticwebassets\\img\\specials-9.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\table.png",
+      "PackagePath": "staticwebassets\\img\\table.png"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\tableb.jpg",
+      "PackagePath": "staticwebassets\\img\\tableb.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Restaurantly.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Restaurantly.props",
+      "PackagePath": "build\\Restaurantly.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurantly.props",
+      "PackagePath": "buildMultiTargeting\\Restaurantly.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurantly.props",
+      "PackagePath": "buildTransitive\\Restaurantly.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

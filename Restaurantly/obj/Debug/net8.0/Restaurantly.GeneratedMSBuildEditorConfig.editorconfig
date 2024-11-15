@@ -17,9 +17,11 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\laragon\www\SameC#\Restaurantly\Restaurantly
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/BookTable/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1RhYmxlXEluZGV4LmNzaHRtbA==
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/BookTableAndOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1RhYmxlQW5kT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Dashboard/Index.cshtml]
@@ -38,12 +40,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Menu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/MyOrders/Index.cshtml]
@@ -80,6 +82,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_Chefs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DaGVmcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/laragon/www/SameC\#/Restaurantly/Restaurantly/Views/Shared/_ContactUs.cshtml]

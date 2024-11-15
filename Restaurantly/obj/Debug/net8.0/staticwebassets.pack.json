@@ -1,24 +1,12 @@
 {
   "Files": [
     {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
-    },
-    {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\data.txt",
-      "PackagePath": "staticwebassets\\database\\data.txt"
-    },
-    {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\dbdiagram.txt",
-      "PackagePath": "staticwebassets\\database\\dbdiagram.txt"
-    },
-    {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\insertdata.txt",
-      "PackagePath": "staticwebassets\\database\\insertdata.txt"
-    },
-    {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\database\\restaurantly.png",
-      "PackagePath": "staticwebassets\\database\\restaurantly.png"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\favicon.ico",
@@ -145,8 +133,12 @@
       "PackagePath": "staticwebassets\\img\\menu\\bread-barrel.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\caesar.jpg",
-      "PackagePath": "staticwebassets\\img\\menu\\caesar.jpg"
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\caesar-salad-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\caesar-salad-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\caesar-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\caesar-salad.jpg"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\cake.jpg",
@@ -155,6 +147,14 @@
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\greek-salad.jpg",
       "PackagePath": "staticwebassets\\img\\menu\\greek-salad.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\grilled-chicken-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\grilled-chicken-1.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\grilled-chicken.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\grilled-chicken.jpg"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\lobster-bisque.jpg",
@@ -169,12 +169,52 @@
       "PackagePath": "staticwebassets\\img\\menu\\mozzarella.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\spinach-salad.jpg",
-      "PackagePath": "staticwebassets\\img\\menu\\spinach-salad.jpg"
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-dana-tentis-118658-262959.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-dana-tentis-118658-262959.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\tuscan-grilled.jpg",
-      "PackagePath": "staticwebassets\\img\\menu\\tuscan-grilled.jpg"
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-deeanacreates-2894651.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-deeanacreates-2894651.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-julieaagaard-2097090 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-julieaagaard-2097090 (1).jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-julieaagaard-2097090.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-julieaagaard-2097090.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-matreding-28271480.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-matreding-28271480.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-ngan-d-ng-706246094-18498609.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-ngan-d-ng-706246094-18498609.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-ngan-d-ng-706246094-18509304.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-ngan-d-ng-706246094-18509304.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-snappr-29042349.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-snappr-29042349.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-sydney-troxell-223521-708488.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-sydney-troxell-223521-708488.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-valeriya-842571.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-valeriya-842571.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\pexels-xmtnguyen-699953.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\pexels-xmtnguyen-699953.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\menu\\spinach-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\spinach-salad.jpg"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\page-title-bg.webp",
@@ -275,6 +315,10 @@
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\js\\main.js",
@@ -779,6 +823,10 @@
     {
       "Id": "C:\\laragon\\www\\SameC#\\Restaurantly\\Restaurantly\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurantly.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurantly.Microsoft.AspNetCore.StaticWebAssets.props",

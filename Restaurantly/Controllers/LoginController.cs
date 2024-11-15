@@ -48,10 +48,12 @@ namespace Restaurantly.Controllers
                     {
                         // Đăng nhập thành công
                         var claims = new List<Claim>
-                        {
-                            new Claim(ClaimTypes.Name, customer.Email),
-                            new Claim("FullName", customer.FullName)
-                        };
+{
+    new Claim(ClaimTypes.NameIdentifier, customer.Id.ToString()), // Add this line
+    new Claim(ClaimTypes.Name, customer.Email),
+    new Claim("FullName", customer.FullName)
+};
+
 
                         var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
                         var authProperties = new AuthenticationProperties
